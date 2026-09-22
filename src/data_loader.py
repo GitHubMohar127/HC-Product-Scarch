@@ -6,7 +6,7 @@ import pandas as pd
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 # Dataset location
-DATASET_PATH = PROJECT_ROOT / "data" / "Hindcon_specility_TDS_MSDS.xlsx"
+DATASET_PATH = PROJECT_ROOT / "data" / "TDS.xlsx"
 
 
 def load_product_data():

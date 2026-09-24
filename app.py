@@ -11,7 +11,7 @@ from src.response_handler import get_ai_response
 # ============================================================
 
 st.set_page_config(
-    page_title="Hindcon Product Assistant",
+    page_title="Hindcon Chemicals LTD. Product Assistant",
     page_icon="📘",
     layout="centered"
 )
@@ -38,7 +38,7 @@ except Exception as e:
 # HEADER
 # ============================================================
 
-st.title("📘 Hindcon Product Assistant")
+st.title("📘 Hindcon Chemicals LTD. Product Search Assistant")
 
 st.caption(
     "Search for a Hindcon product or category to find available "
